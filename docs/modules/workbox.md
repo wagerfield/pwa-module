@@ -247,5 +247,3 @@ workbox.routing.registerRoute(
 ```
 
 Thanks to [@CarterLi](https://github.com/CarterLi) for the tip.
-
-### Enable
