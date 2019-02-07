@@ -40,7 +40,7 @@ It is recommanded to test workbox using `nuxt build`/`nuxt start`. You can enabl
 
 (Array) Additional scripts to be imported in service worker script. (Relative to `/`. Can be placed in `assets/` directory)
 
-###offlineAnalytics*
+### `offlineAnalytics`
 
 (Boolean) Enable offline Google Analytics tracking [through workbox](https://developers.google.com/web/tools/workbox/guides/enable-offline-analytics) (Disabled by default)
 
